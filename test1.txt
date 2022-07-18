@@ -1,4 +1,4 @@
-NAME="Red Hat Enterprise Linux"
+NAME="vasudevmisra"
 VERSION="8.6 (Ootpa)"
 ID="rhel"
 ID_LIKE="fedora"
